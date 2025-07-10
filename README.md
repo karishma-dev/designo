@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/krrish105/designo](https://github.com/krrish105/designo)
+- Solution URL: [https://github.com/karishma-dev/designo](https://github.com/karishma-dev/designo)
 - Live Site URL: [https://designo-silk.vercel.app/](https://designo-silk.vercel.app/)
 
 ## My process
@@ -51,7 +51,7 @@ Users should be able to:
 ## Author
 
 - Website - [Karishma](https://www.karishma.dev/)
-- Frontend Mentor - [Krrish105](https://www.frontendmentor.io/profile/Krrish105)
-- Twitter - [\_karishma10](https://twitter.com/_karishma10)
+- Frontend Mentor - [karishma-dev](https://www.frontendmentor.io/profile/karishma-dev)
+- Twitter - [_karishma10](https://twitter.com/_karishma10)
 - LinkedIn - [Karishma Garg](https://www.linkedin.com/in/karishma-garg-)
-- Codepen - [Krrish105](https://codepen.io/krrish105)
+- Codepen - [karishma-dev](https://codepen.io/karishma-dev)
